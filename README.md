@@ -1,2 +1,2 @@
-# animated-lamp
+# vstar
 week_1_homework
